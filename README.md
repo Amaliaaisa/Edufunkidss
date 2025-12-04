@@ -4,7 +4,7 @@ EduFunKids – Platform Edukasi Interaktif Anak
 Nama Kelompok & Anggota
 Kelompok 7
 Ragit Dwi Saputra
-Amalia Aisyaturadia
+Amalia Aisaturadia
 Nadia Syahira
 
 Deskripsi Singkat Aplikasi
